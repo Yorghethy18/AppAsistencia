@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../admidsh"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "admidsh"
+	}
+}
